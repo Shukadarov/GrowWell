@@ -1,4 +1,4 @@
-# 🩺 Healthy Life App 🌱  
+# 🩺 GrowWell 🌱  
 **Empowering families to lead healthier lives through IoT, gamification, and AI.**
 
 ---
