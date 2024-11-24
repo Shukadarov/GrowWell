@@ -24,6 +24,8 @@ Grow Well is an innovative mobile application designed to help children develop 
 - **Interactive Avatar**: A fun, animated character that grows, gets stronger, and earns new outfits as the child completes health challenges.  
 - **Gamification**: Points, achievements, and rewards for hitting health goals such as walking or eating healthy.  
 - **Educational Games**: Interactive, fun games that teach children the importance of exercise, healthy eating, and emotional well-being.
+- ![IMG_2537](https://github.com/user-attachments/assets/7b177a92-a21f-428c-87b7-9ff2a63e5c1c)
+
 
 ---
 
