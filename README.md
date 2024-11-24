@@ -1,3 +1,5 @@
+# This repository has been created for educational purposes only. It is not intended for commercial use, and all content is provided under fair use. Please use responsibly and in accordance with applicable laws.
+
 # 🌱 Grow Well App 🩺  
 **Empowering families to thrive through IoT, gamification, and AI-driven health insights.**
 
