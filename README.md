@@ -17,6 +17,8 @@ Grow Well is an innovative mobile application designed to help children develop 
 - **AI Analytics**: Receive personalized health insights and recommendations for nutrition, activity, and emotional well-being based on real-time data.  
 - **Community & Social Network**: Join groups, participate in forums, and share tips and advice with other parents.  
 - **Daily & Weekly Reports**: Access clear reports on your child’s health progress and milestones.
+- ![IMG_2536](https://github.com/user-attachments/assets/325741d9-c77d-41d0-b825-884717cc8839)
+
 
 ### 🎮 For Children  
 - **Interactive Avatar**: A fun, animated character that grows, gets stronger, and earns new outfits as the child completes health challenges.  
